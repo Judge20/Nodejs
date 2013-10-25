@@ -1,0 +1,8 @@
+//package.json
+{
+	"name": "sum-client",
+	"version": "1.0.0",
+	"dependencies": {
+		"request": "*"
+	}
+}
